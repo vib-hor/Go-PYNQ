@@ -1,3 +1,4 @@
+clc %lol!
 function [vlast, i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12,i13,i14,i15,i16] = fcn(vlast,v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12,v13,v14,v15,v16)
 v=zeros(16,1);
 v(1)=v1;v(2)=v2;v(3)=v3;v(4)=v4;v(5)=v5;v(6)=v6;v(7)=v7;v(8)=v8;
